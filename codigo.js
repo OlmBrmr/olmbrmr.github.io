@@ -22,3 +22,5 @@ function displayValue() {
     alert("Contraseña incorrecta")
     console.log(data1 +" / "+ data2)
   }
+
+ 
